@@ -8,8 +8,8 @@
 
 ### Languages and Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Ccpp%2Ccs%2Cpy%2Cvscode%2Cvisualstudio%2Crider%2Cunreal%2Cunity">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Ccpp%2Ccs%2Cpy%2Cvscode%2Cvisualstudio%2Crider%2Cunreal%2Cunity&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Ccpp%2Ccs%2Cpy%2Cvscode%2Cvisualstudio%2Crider%2Cunreal%2Cunity%2Clinux">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Ccpp%2Ccs%2Cpy%2Cvscode%2Cvisualstudio%2Crider%2Cunreal%2Cunity%2Clinux&theme=light">
   <img alt="" src="">
 </picture>
 
